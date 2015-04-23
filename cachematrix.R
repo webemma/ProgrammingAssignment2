@@ -12,7 +12,7 @@
 
 ## The get function returns the matrix x.
 ## Function setinverse sets the value of variable inv to be the function 'solve' in the main function
-## Function getinverse returns the value of inv 
+## Function getinverse returns the stored value of inv. 
 
 
 
